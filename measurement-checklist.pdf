@@ -1,0 +1,9 @@
+GrowthHub - Analytics Measurement Checklist
+
+This is a placeholder file for practising GA4/GTM file download tracking.
+
+Practice later:
+1. Create a click/download trigger in GTM.
+2. Send a file_download event to GA4.
+3. Validate it in GTM Preview and GA4 DebugView.
+4. Decide whether the download should be a key event.
